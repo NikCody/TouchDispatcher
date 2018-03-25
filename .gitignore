@@ -1,0 +1,15 @@
+# Java
+*.class
+*.jar
+# Gradle
+.gradle/
+!/gradle/wrapper/gradle-wrapper.jar
+# Android
+*.aar
+# Android Studio
+*.iml
+/local.properties
+/.idea/
+/build/
+/captures/
+.externalNativeBuild
